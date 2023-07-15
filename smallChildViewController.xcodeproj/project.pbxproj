@@ -13,6 +13,7 @@
 		1F0AC8B62A63074700B041E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F0AC8B42A63074700B041E7 /* Main.storyboard */; };
 		1F0AC8B82A63074800B041E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F0AC8B72A63074800B041E7 /* Assets.xcassets */; };
 		1F0AC8BB2A63074800B041E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F0AC8B92A63074800B041E7 /* LaunchScreen.storyboard */; };
+		1F0AC8C32A63091500B041E7 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0AC8C22A63091500B041E7 /* PopupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1F0AC8B72A63074800B041E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F0AC8BA2A63074800B041E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F0AC8BC2A63074800B041E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F0AC8C22A63091500B041E7 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1F0AC8AE2A63074700B041E7 /* AppDelegate.swift */,
 				1F0AC8B02A63074700B041E7 /* SceneDelegate.swift */,
 				1F0AC8B22A63074700B041E7 /* ViewController.swift */,
+				1F0AC8C22A63091500B041E7 /* PopupViewController.swift */,
 				1F0AC8B42A63074700B041E7 /* Main.storyboard */,
 				1F0AC8B72A63074800B041E7 /* Assets.xcassets */,
 				1F0AC8B92A63074800B041E7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1F0AC8B32A63074700B041E7 /* ViewController.swift in Sources */,
 				1F0AC8AF2A63074700B041E7 /* AppDelegate.swift in Sources */,
 				1F0AC8B12A63074700B041E7 /* SceneDelegate.swift in Sources */,
+				1F0AC8C32A63091500B041E7 /* PopupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
